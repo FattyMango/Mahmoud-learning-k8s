@@ -1,0 +1,1 @@
+You might ask if this the second worst server to ever exist, what is the worst server to ever exist? Well, the worst server is the one I've written in Python.

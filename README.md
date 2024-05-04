@@ -1,0 +1,1 @@
+Just me trying to learn K8s, it ain't that hard ig
